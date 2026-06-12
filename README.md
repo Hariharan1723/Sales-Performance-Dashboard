@@ -10,7 +10,7 @@ A two-page interactive Power BI dashboard built for monthly business reviews, co
 [![Page 1 Overview](screenshots/page1_overview.png)](https://github.com/Hariharan1723/Sales-Performance-Dashboard/blob/347aeac4df916a618fe17fd58de0761522ac43d4/Sales-Performance-Dashboard/Screenshots/Page1_overview.png)
  
 ### Page 2 — Sales Diagnostic: Target, Returns & Delays
-![Page 2 Diagnostic](screenshots/page2_diagnostic.png)
+[![Page 2 Diagnostic](screenshots/page2_diagnostic.png)](https://github.com/Hariharan1723/Sales-Performance-Dashboard/blob/956dfe2da179d12759be057d2513a4b96bd7d246/Sales-Performance-Dashboard/Screenshots/page2_diagnostic.png)
  
 ---
  
